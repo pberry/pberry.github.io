@@ -1,4 +1,4 @@
-{% include techmeme-longreads.html %}
+{% include_relative techmeme-longreads.html %}
 
 **Tuesday, November 20**
 * [How The Wall Street Journal is preparing its journalists to detect deepfakes](http://www.niemanlab.org/2018/11/how-the-wall-street-journal-is-preparing-its-journalists-to-detect-deepfakes/)
