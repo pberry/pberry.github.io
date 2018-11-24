@@ -1,7 +1,3 @@
----
-redirect_from: "/longreads.html"
----
-
 {% include_relative techmeme-longreads.html %}
 
 **Tuesday, November 20**
